@@ -1,0 +1,22 @@
+/* Ensure the section takes up full height and centers its content
+#git {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+  }
+  
+  /* Wrapper style to center the calendar horizontally */
+  /* .wrapper {
+    width: 100%;
+    text-align: center;
+  } */
+  
+  /* GitHubCalendar style adjustments for full width */
+  /* .react-github-calendar {
+    width: 100%;
+    height: auto;
+  } */ */
+  
